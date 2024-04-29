@@ -1,0 +1,13 @@
+{
+    "model_name": "Basic-Kindle",
+    "annotation": "Annotation",
+    "content_field": "Highlight",
+    "source_field": "Extra",
+    "title_field": "Book Title",
+    "authors_field": "Author",
+    "highlight_field": "Highlight Type",
+    "section": "Section",
+    "subsection": "Subsection",
+    "page_location_field": "Page and Location",
+    "last_added": null
+}
