@@ -1,3 +1,5 @@
+A fork of gmcmanus/anki-kindle-highlights-import
+
 ##### parse kindle txt file is BROKEN after fixing the added page number in the new kindle highlights export html!! #####
 
 Ignores non-highlight clippings.
